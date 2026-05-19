@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Birthday Website Template - Blue Penguin</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body{
+margin:0;
+font-family: 'Arial', sans-serif;
+background: linear-gradient(135deg,#0f172a,#1e3a8a,#0ea5e9);
+color:white;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+padding:20px;
+}
+
+.header{
+text-align:center;
+padding:40px 20px;
+}
+
+.header h1{
+font-size:32px;
+margin-bottom:10px;
+}
+
+.tag{
+background:rgba(255,255,255,0.15);
+display:inline-block;
+padding:8px 15px;
+border-radius:20px;
+font-size:14px;
+}
+
+.card{
+background:rgba(255,255,255,0.12);
+padding:20px;
+border-radius:15px;
+margin-top:20px;
+backdrop-filter: blur(10px);
+}
+
+h2{
+color:#93c5fd;
+margin-bottom:10px;
+}
+
+ul{
+line-height:1.8;
+}
+
+.btn{
+display:inline-block;
+margin-top:15px;
+padding:12px 20px;
+background:#38bdf8;
+color:black;
+border-radius:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.footer{
+text-align:center;
+margin-top:30px;
+font-size:13px;
+opacity:0.8;
+padding-bottom:30px;
+}
+
+.highlight{
+color:#67e8f9;
+font-weight:bold;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+<h1>🎂 Birthday Website ft. Blue Penguin</h1>
+<div class="tag">Interactive • Editable • Aesthetic Digital Template</div>
+</div>
+
+<div class="card">
+<h2>ABOUT THE PAGE</h2>
+<p>
+A fully editable digital template designed to turn your memories, pictures, videos & moments into something aesthetic and personal 💗
+</p>
+
+<p>
+Includes editable Canva slides/pages for pictures, videos, text, letters & memories ✨
+</p>
+</div>
+
+<div class="card">
+<h2>💝 PERFECT FOR</h2>
+<ul>
+<li>Midnight surprises</li>
+<li>Long-distance love</li>
+<li>Birthday or anniversary gifts</li>
+<li>Apology messages</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>✨ WHY YOU SHOULD BUY IT?</h2>
+<ul>
+<li>Easy to customize</li>
+<li>Aesthetic & detailed design</li>
+<li>Cost-effective and thoughtful surprise</li>
+<li>Reusable for different occasions</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>🛠 HOW TO CUSTOMIZE?</h2>
+<ul>
+<li>After purchase, you’ll receive Canva template link + instructions</li>
+<li>Download Canva app and login/register</li>
+<li>Edit pictures, text, videos & memories easily</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>📌 IMPORTANT</h2>
+<p>
+Digital product only. No physical item will be delivered.
+</p>
+</div>
+
+<div class="card">
+<h2>📜 TERMS & CONDITIONS</h2>
+<p>
+PERSONAL USE ONLY • NO RESELLING/SHARING • NO COMMERCIAL USE • NO REFUNDS AFTER PURCHASE • CANVA LINK ACCESS ONLY
+</p>
+</div>
+
+<div style="text-align:center;">
+<a class="btn" href="#">Get Your Template</a>
+</div>
+
+<div class="footer">
+Made with 💙 Blue Penguin Theme • Editable Birthday Experience
+</div>
+
+</div>
+
+</body>
+</html>
